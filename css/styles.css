@@ -109,3 +109,19 @@ body{
 #pie p {
     color: white;
 }
+
+@media (max-width: 780px) {
+    #servicios{
+        flex-direction: column;
+    }
+    #videos{
+        flex-direction: column;
+    }
+    #encabezado {
+        flex-direction: column;
+    }
+    #logo {
+        justify-content: center;
+    }
+    
+}
