@@ -119,7 +119,7 @@ body{
     }
     #encabezado {
         flex-direction: column;
-    }
+    } 
     #logo {
         justify-content: center;
     }
